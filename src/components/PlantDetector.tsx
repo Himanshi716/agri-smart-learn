@@ -1,6 +1,6 @@
 
 import React, { useState, useRef } from 'react';
-import { Camera, Upload, Loader, CheckCircle } from 'lucide-react';
+import { Camera, Upload, Loader, CheckCircle, Book } from 'lucide-react';
 import CropInfoCard from './CropInfoCard';
 
 const PlantDetector = () => {
